@@ -1,0 +1,18 @@
+{
+    "name": "vivek/stackbot-notifier",
+    "description": "Notify activities on StackOverflow",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vivek Tadpatri",
+            "email": "vivekpisces23@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "StackbotNotifier\\": "src/"
+        }
+    }
+}
